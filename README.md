@@ -4,7 +4,7 @@
 
 This project is a **responsive personal portfolio website** built using **HTML, Tailwind CSS, and JavaScript**. It showcases a clean and modern design suitable for presenting personal information, skills, and contact details. The website also supports **dynamic customization** through configuration settings.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -17,13 +17,13 @@ This project is a **responsive personal portfolio website** built using **HTML, 
 
 ## 📂 Project Structure
 
-```
+
 ├── index.html
-```
+
 
 All styles, scripts, and content are contained within a single HTML file.
 
----
+
 
 ## ✨ Features
 
@@ -47,7 +47,7 @@ All styles, scripts, and content are contained within a single HTML file.
 
   * Clickable email link using `mailto:`
 
----
+
 
 ## 📑 Website Sections
 
@@ -71,7 +71,7 @@ All styles, scripts, and content are contained within a single HTML file.
 
    * Copyright information
 
----
+
 
 ## ⚙️ Configuration System
 
@@ -86,7 +86,7 @@ Changes are applied dynamically through JavaScript without reloading the page.
 * Contact Title
 * Contact Email
 
----
+
 
 ## 🎨 Styling
 
@@ -97,7 +97,7 @@ Changes are applied dynamically through JavaScript without reloading the page.
   * Card shadows
   * Gradient background
 
----
+
 
 ## 🚀 How to Use
 
@@ -106,14 +106,9 @@ Changes are applied dynamically through JavaScript without reloading the page.
 3. Edit the text directly in the HTML **or** use the configuration system if supported
 4. Customize colors, fonts, and content as needed
 
----
 
-## 📧 Sample Contact
-
-
-nino@example.com
 ## LINK
-click here: 
+click here:  https://ninodao769-byte.github.io/myportfolio_website/
 
 ## © Credits
 
